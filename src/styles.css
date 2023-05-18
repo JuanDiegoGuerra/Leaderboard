@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: system-ui, sans-serif;
+}
+
+.header-container {
+  width: 100%;
+  padding: 20px 40px;
+}
+
+.web-title {
+  font-size: 70px;
+  font-weight: 600;
+}
+
+.main-section {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 100px;
+}
+
+.board-container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+
+.board-title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.subtitle {
+  font-size: 30px;
+  padding: 10px 0;
+}
+
+.button {
+  background-color: transparent;
+  border: 2px solid black;
+  padding: 3px 13px;
+  font-weight: 600;
+  transition: all 100ms;
+  box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.9);
+}
+
+.button:hover {
+  background-color: rgb(223, 223, 223);
+}
+
+.scores {
+  border: 3px solid black;
+  border-radius: 3px;
+}
+
+.scores-row {
+  padding: 5px 10px;
+}
+
+.row-description {
+  font-weight: 600;
+}
+
+.odd-row {
+  background-color: rgb(221, 221, 221);
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+
+.add-form {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  gap: 20px;
+}
+
+.input-style {
+  padding: 5px 10px;
+  border: 2px solid black;
+  border-radius: 2px;
+}
+
+.input-style::placeholder {
+  color: black;
+  font-weight: 600;
+}
+
+.add-btn {
+  align-self: flex-end;
+}
