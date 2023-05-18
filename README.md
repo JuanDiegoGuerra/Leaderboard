@@ -61,9 +61,7 @@ This project is a basic website that allows users to add their scores to a list.
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-> To be implemented
-
-- [Leaderboard - Live Demo]()
+> Incoming
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
