@@ -22,7 +22,7 @@ reloadBtn.addEventListener('click', async () => {
 
 form.addEventListener('submit', async (e) => {
   e.preventDefault();
-  await addScore(nameToAdd.value, scoreToAdd.valueAsNumber);
+  await addScore(nameToAdd.value, scoreToAdd.value);
   const scoresData = await getScores();
   renderscores(scoresData);
   nameToAdd.value = '';
