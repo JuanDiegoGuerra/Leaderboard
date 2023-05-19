@@ -60,6 +60,8 @@
 .scores {
   border: 3px solid black;
   border-radius: 3px;
+  max-height: 50vh;
+  overflow-y: scroll;
 }
 
 .scores-row {
@@ -70,7 +72,7 @@
   font-weight: 600;
 }
 
-.odd-row {
+.poss-row {
   background-color: rgb(221, 221, 221);
 }
 
