@@ -5,6 +5,75 @@
   font-family: system-ui, sans-serif;
 }
 
+body {
+  background-color: #5a3c7c;
+  color: green;
+  background-image:
+    url(./assets/green_star.svg),
+    url(./assets/green_star.svg),
+    url(./assets/green_star.svg),
+    url(./assets/green_star.svg),
+    url(./assets/green_car_horizontal.svg),
+    url(./assets/green_car_horizontal.svg),
+    url(./assets/green_car_vertical.svg),
+    url(./assets/green_car_vertical.svg),
+    url(./assets/green_spaceman.svg),
+    url(./assets/green_tree_pixel.svg),
+    url(./assets/Gold-Coin.svg),
+    url(./assets/Gold-Coin.svg),
+    url(./assets/Gold-Coin.svg),
+    url(./assets/Gold-Coin.svg),
+    url(./assets/Gold-Coin.svg),
+    url(./assets/space_invader.svg),
+    url(./assets/space_invader.svg),
+    url(./assets/space_invader.svg),
+    url(./assets/space_invader.svg),
+    url(./assets/space_invader.svg);
+  background-repeat: no-repeat;
+  background-size:
+    7%,
+    7%,
+    7%,
+    7%,
+    12%,
+    12%,
+    5%,
+    5%,
+    10%,
+    15%,
+    3%,
+    3%,
+    3%,
+    3%,
+    3%,
+    3%,
+    3%,
+    3%,
+    3%,
+    3%;
+  background-position:
+    2.5% 2.5%,
+    2.5% 98.5%,
+    98.5% 2.5%,
+    98.5% 98.5%,
+    78% 3%,
+    22% 3%,
+    3% 50%,
+    97% 50%,
+    60% 84%,
+    85% 90%,
+    25% 35%,
+    25% 50%,
+    25% 65%,
+    25% 80%,
+    25% 95%,
+    20% 35%,
+    20% 50%,
+    20% 65%,
+    20% 80%,
+    20% 95%;
+}
+
 .header-container {
   width: 100%;
   padding: 20px 40px;
@@ -13,6 +82,7 @@
 .web-title {
   font-size: 70px;
   font-weight: 600;
+  text-align: center;
 }
 
 .main-section {
@@ -45,16 +115,19 @@
 }
 
 .button {
-  background-color: transparent;
+  background-color: mediumturquoise;
+  color: blue;
   border: 2px solid black;
   padding: 3px 13px;
   font-weight: 600;
   transition: all 100ms;
   box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.9);
+  cursor: pointer;
 }
 
 .button:hover {
-  background-color: rgb(223, 223, 223);
+  background-color: darkviolet;
+  color: white;
 }
 
 .scores {
@@ -62,10 +135,13 @@
   border-radius: 3px;
   max-height: 50vh;
   overflow-y: scroll;
+  color: black;
 }
 
 .scores-row {
   padding: 5px 10px;
+  background-color: lightgreen;
+  color: green;
 }
 
 .row-description {
@@ -73,7 +149,8 @@
 }
 
 .poss-row {
-  background-color: rgb(221, 221, 221);
+  background-color: green;
+  color: lightgreen;
 }
 
 .form-container {

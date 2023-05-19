@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg4394" viewBox="0 0 647.74 616.38" version="1.1">
+  <title id="title5000">Green Anarchism</title>
+  <g id="layer1" stroke-linejoin="round" stroke="#000" stroke-width="5" transform="translate(-65.531 -92.849)">
+    <path id="path4968" fill="#0f0" transform="matrix(.99235 -.12347 .12347 .99235 25.132 281.85)" d="m506.35 490.92-179.13-169.09-215.08 120.26 105.49-222.61-180.88-167.4 244.32 31.517 103.33-223.71 45.52 242.1 244.7 29.12-216.19 118.1 47.92 241.71z"/>
+    <path id="path4960" d="m389.28 95.349-74.906 234.75-246.34-1.0938 200.16 143.78-77.188 233.94 198.56-145.91 1.5 1.0938v-461l-1.7812-5.5625z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Green anarchism</dc:title>
+        <dc:date>2010-03-22T17:03:54</dc:date>
+        <dc:description>green anarchism symbol drawn on inkscape.</dc:description>
+        <dc:source>http://openclipart.org/detail/33211/green-anarchism-by-andy_gardner</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andy_Gardner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>anarchism</rdf:li>
+            <rdf:li>anarchy</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>environment</rdf:li>
+            <rdf:li>green politics</rdf:li>
+            <rdf:li>political</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
